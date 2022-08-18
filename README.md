@@ -1,6 +1,6 @@
-# Nexit
+# Bling
 
-Through our website- 'Nexit' we are trying to provide one window where you can get the best results for your search query.
+Through our website- 'Bling' we are trying to provide one window where you can get the best results for your search query.
 
 It will provide you with multiple questions matching with your search query and best answers for each such question from all across the web.
 
